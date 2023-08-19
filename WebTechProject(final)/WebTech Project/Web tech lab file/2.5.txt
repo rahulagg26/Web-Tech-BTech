@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>To implement html tags and html forms</title>
+<script="text/javascript">
+var arr=['raj',3,24];
+document.write(arr);
+arr[2]=6;
+document.write(arr);
+</script>
+<body>
+</body>
+</head>
+</html>

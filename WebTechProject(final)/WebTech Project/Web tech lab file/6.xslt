@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+<food>
+    <name>Tes</name>
+    <price>$1.25</price>
+    <calories>50</calories>
+</food>
+<food>
+    <name>Cardamom Tea</name>
+    <price>$1.5</price>
+    <description>
+    With added cardamom
+    </description>
+    <calories>60</calories>
+</food>
+<food>
+    <name>Ginger Tea</name>
+    <price>$1.75</price>
+    <description>
+    With added ginger
+    </description>
+    <calories>70</calories>
+</food>
+<food>
+    <name>Mix Tea</name>
+    <price>$2.00</price>
+    <description>
+    With everything
+    </description>
+    <calories>100</calories>
+</food>
+</breakfast_menu>
